@@ -1,6 +1,5 @@
 ---
 title: Home
-heading: A Unibit Starter Theme
 show_button: true
 homepage_button_link: unibit
 homepage_button_text: Unibit Documentation
