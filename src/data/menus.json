@@ -1,0 +1,18 @@
+{
+    "main": [
+        {
+            "identifier": "home",
+            "weight": 1,
+            "url": "/",
+            "title": "Home"
+        }
+    ],
+    "secondary": [
+        {
+            "identifier": "about",
+            "weight": 1,
+            "url": "about",
+            "title": "About"
+        }
+    ]
+}
