@@ -5,7 +5,4 @@ homepage_button_link: unibit
 homepage_button_text: Unibit Documentation
 template: home
 ---
-
-Unibit is a superset of existing static site generators. It can be used as a standalone ssg or it can be imported into [Stackbit](https://www.stackbit.com) and seamlessly converted into other static site generators and headless CMS. 
-
-
+![](https://media.tenor.com/images/824a5c6fb0eff4de202d0cd4da1e6692/tenor.gif)
